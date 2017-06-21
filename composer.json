@@ -1,6 +1,6 @@
 {
     "name": "carlosgoce/composer-demo",
-    "description": "De simple de composer",
+    "description": "Demo simple de composer",
     "type": "library",
     "license": "MIT",
     "authors": [
